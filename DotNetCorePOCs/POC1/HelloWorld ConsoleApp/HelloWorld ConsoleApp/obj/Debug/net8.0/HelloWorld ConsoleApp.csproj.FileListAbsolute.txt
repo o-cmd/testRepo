@@ -1,0 +1,14 @@
+C:\Users\Onkar.Shinde\Desktop\SelfLearning\DotNet Core\HelloWorld ConsoleApp\HelloWorld ConsoleApp\bin\Debug\net8.0\HelloWorld ConsoleApp.exe
+C:\Users\Onkar.Shinde\Desktop\SelfLearning\DotNet Core\HelloWorld ConsoleApp\HelloWorld ConsoleApp\bin\Debug\net8.0\HelloWorld ConsoleApp.deps.json
+C:\Users\Onkar.Shinde\Desktop\SelfLearning\DotNet Core\HelloWorld ConsoleApp\HelloWorld ConsoleApp\bin\Debug\net8.0\HelloWorld ConsoleApp.runtimeconfig.json
+C:\Users\Onkar.Shinde\Desktop\SelfLearning\DotNet Core\HelloWorld ConsoleApp\HelloWorld ConsoleApp\bin\Debug\net8.0\HelloWorld ConsoleApp.dll
+C:\Users\Onkar.Shinde\Desktop\SelfLearning\DotNet Core\HelloWorld ConsoleApp\HelloWorld ConsoleApp\bin\Debug\net8.0\HelloWorld ConsoleApp.pdb
+C:\Users\Onkar.Shinde\Desktop\SelfLearning\DotNet Core\HelloWorld ConsoleApp\HelloWorld ConsoleApp\obj\Debug\net8.0\HelloWorld ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Onkar.Shinde\Desktop\SelfLearning\DotNet Core\HelloWorld ConsoleApp\HelloWorld ConsoleApp\obj\Debug\net8.0\HelloWorld ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Onkar.Shinde\Desktop\SelfLearning\DotNet Core\HelloWorld ConsoleApp\HelloWorld ConsoleApp\obj\Debug\net8.0\HelloWorld ConsoleApp.AssemblyInfo.cs
+C:\Users\Onkar.Shinde\Desktop\SelfLearning\DotNet Core\HelloWorld ConsoleApp\HelloWorld ConsoleApp\obj\Debug\net8.0\HelloWorld ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Onkar.Shinde\Desktop\SelfLearning\DotNet Core\HelloWorld ConsoleApp\HelloWorld ConsoleApp\obj\Debug\net8.0\HelloWorld ConsoleApp.dll
+C:\Users\Onkar.Shinde\Desktop\SelfLearning\DotNet Core\HelloWorld ConsoleApp\HelloWorld ConsoleApp\obj\Debug\net8.0\refint\HelloWorld ConsoleApp.dll
+C:\Users\Onkar.Shinde\Desktop\SelfLearning\DotNet Core\HelloWorld ConsoleApp\HelloWorld ConsoleApp\obj\Debug\net8.0\HelloWorld ConsoleApp.pdb
+C:\Users\Onkar.Shinde\Desktop\SelfLearning\DotNet Core\HelloWorld ConsoleApp\HelloWorld ConsoleApp\obj\Debug\net8.0\HelloWorld ConsoleApp.genruntimeconfig.cache
+C:\Users\Onkar.Shinde\Desktop\SelfLearning\DotNet Core\HelloWorld ConsoleApp\HelloWorld ConsoleApp\obj\Debug\net8.0\ref\HelloWorld ConsoleApp.dll
